@@ -5,8 +5,17 @@ background: #A9F5F2;
 
 }
 .tipos{
-
+	text-align: center;
+	color: #C817E3;
+	font-weight: bold;
+	font-family: all;
+	text-decoration: underline;
 }
 .links{
 	
+}
+.subrayado-tipos{
+color: #088A08;
+font-size: 18px;
+text-decoration: underline;
 }
