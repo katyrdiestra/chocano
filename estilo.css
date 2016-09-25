@@ -5,7 +5,20 @@ margin: 0;
 font-family: Arial;
 }
 .introduccion{
-
+ font: 150% sans-serif;
+ background: #A9F5F2;
+padding: 0;
+margin: 0;
+font-family: Arial;
+}
+.introduccion2{
+ font: bold 160% monospace;
+}
+.introduccion3{
+ font: oblique bold 120% cursive;
+}
+.introduccion h1{
+	color: 0421FF;
 }
 .tipos{
 	text-align: center;
@@ -14,8 +27,24 @@ font-family: Arial;
 	font-family: all;
 	text-decoration: underline;
 }
+
+.web2{
+font-family: "Times New Roman";
+text-align: left;
+font-size: 20px;
+color: #FF0000;
+}
 .links{
-	
+	text-align: center;
+	letter-spacing: 20px;
+
+}
+
+
+.links img{
+	width: 80px;
+	height: 80px;
+
 }
 
 
@@ -36,7 +65,6 @@ font-family: Arial;
 	display:block;
 margin:auto;
 	}
-
 .titulo{
 font-synthesis: 18px;
 text-decoration: underline;
@@ -74,7 +102,9 @@ text-decoration: underline;
 .menu ul li a:hover{
 	background: #084B8A;
 }
-
+.introduccion p{
+	text-align: justify;
+}
 .titulo-concepto{
 	color:#0F25CE;
 }
@@ -88,4 +118,17 @@ text-decoration: underline;
 .parrafo-plo{
 	color:#228B22;
 	}
-	
+
+.titulog {
+	text-align: center;
+	color: #891414
+	font-size:"Arial black";
+}
+
+.page{
+	padding: 20px;
+	background: #FFF;
+	width: 750px;
+	margin: auto;
+
+}
