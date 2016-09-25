@@ -2,11 +2,11 @@ body{
 background: #A9F5F2;
 }
 .introduccion{
-
+ font: 150% sans-serif;
 }
-.tipos{
-
+.introduccion2{
+ font: bold 160% monospace;
 }
-.links{
-	
+.introduccion3{
+ font: oblique bold 120% cursive;
 }
