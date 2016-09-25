@@ -8,7 +8,11 @@ font-family: Arial;
 
 }
 .tipos{
-
+	text-align: center;
+	color: #C817E3;
+	font-weight: bold;
+	font-family: all;
+	text-decoration: underline;
 }
 .links{
 	
@@ -26,6 +30,11 @@ color: #DF013A;
 	margin-right: 2em;
     background-color: #f9dbdb;
     border: 1px solid #e9b3b3;
+}
+.subrayado-tipos{
+color: #088A08;
+font-size: 18px;
+text-decoration: underline;
 }
 .menu ul{
 	margin: 0;
