@@ -5,7 +5,20 @@ margin: 0;
 font-family: Arial;
 }
 .introduccion{
-
+ font: 150% sans-serif;
+ background: #A9F5F2;
+padding: 0;
+margin: 0;
+font-family: Arial;
+}
+.introduccion2{
+ font: bold 160% monospace;
+}
+.introduccion3{
+ font: oblique bold 120% cursive;
+}
+.introduccion h1{
+	color: 0421FF;
 }
 .tipos{
 	text-align: center;
@@ -13,6 +26,13 @@ font-family: Arial;
 	font-weight: bold;
 	font-family: all;
 	text-decoration: underline;
+}
+
+.web2{
+font-family: "Times New Roman";
+text-align: left;
+font-size: 20px;
+color: #FF0000;
 }
 .links{
 	text-align: center;
@@ -24,6 +44,7 @@ font-family: Arial;
 .links img{
 	width: 80px;
 	height: 80px;
+
 }
 
 
@@ -83,6 +104,17 @@ text-decoration: underline;
 .menu ul li a:hover{
 	background: #084B8A;
 }
+<<<<<<< HEAD
 .introduccion p{
 	text-align: justify;
 }
+=======
+
+
+.page{
+	padding: 20px;
+	background: #FFF;
+	width: 750px;
+	margin: auto;
+}
+>>>>>>> bace7e5c6afa84066bc2d7f7d862c5acfee97afb
