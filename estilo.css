@@ -5,10 +5,17 @@ margin: 0;
 font-family: Arial;
 }
 .introduccion{
-background: #A9F5F2;
+ font: 150% sans-serif;
+ background: #A9F5F2;
 padding: 0;
 margin: 0;
 font-family: Arial;
+}
+.introduccion2{
+ font: bold 160% monospace;
+}
+.introduccion3{
+ font: oblique bold 120% cursive;
 }
 .introduccion h1{
 	color: 0421FF;
@@ -93,19 +100,15 @@ text-decoration: underline;
 	background: #084B8A;
 }
 
-<<<<<<< HEAD
-.titulo {
+.titulog {
 	text-align: center;
 	color: #891414
 	font-size:"Arial black";
 }
-=======
 
 .page{
 	padding: 20px;
 	background: #FFF;
 	width: 750px;
 	margin: auto;
-}
 
->>>>>>> a83a3adc577f32bb001256d0d6746b14fd8aa1d0
