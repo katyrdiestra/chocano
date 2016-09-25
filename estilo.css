@@ -39,11 +39,14 @@ color: #FF0000;
 	letter-spacing: 20px;
 
 }
+
+
 .links img{
 	width: 80px;
 	height: 80px;
 
 }
+
 
 .web3.html{
 	background: #FE642E;
@@ -62,6 +65,8 @@ color: #FF0000;
 	display:block;
 margin:auto;
 	}
+>>>>>>> 54bacb2bfb17ebb734026dfdcfdd711de1c5102d
+
 .titulo{
 font-synthesis: 18px;
 text-decoration: underline;
@@ -99,6 +104,11 @@ text-decoration: underline;
 .menu ul li a:hover{
 	background: #084B8A;
 }
+<<<<<<< HEAD
+.introduccion p{
+	text-align: justify;
+}
+=======
 
 .titulog {
 	text-align: center;
@@ -111,4 +121,9 @@ text-decoration: underline;
 	background: #FFF;
 	width: 750px;
 	margin: auto;
+<<<<<<< HEAD
 
+=======
+}
+>>>>>>> bace7e5c6afa84066bc2d7f7d862c5acfee97afb
+>>>>>>> 52104f857101878c122f88d7e5fb21c19a7f6029
