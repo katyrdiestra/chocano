@@ -10,3 +10,21 @@ background: #A9F5F2;
 .links{
 	
 }
+
+.web3.html{
+	background: #FE642E;
+
+}
+.titulo-centrado{
+	text-align: center;
+	color: #04B486;
+	font-weight: bold;
+}
+.parrafo{
+	color: #0404B4;
+	font-size: 22px;
+}
+.img{
+	display:block;
+margin:auto;
+	}
