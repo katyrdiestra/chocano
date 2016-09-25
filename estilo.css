@@ -1,5 +1,8 @@
 body{
 background: #A9F5F2;
+padding: 0;
+margin: 0;
+font-family: Arial;
 }
 .introduccion{
 
@@ -9,4 +12,22 @@ background: #A9F5F2;
 }
 .links{
 	
+}
+.menu ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background: #0080FF;
+}
+.menu ul li{
+	display: inline-block;
+}
+.menu ul li a{
+	display: block;
+	padding: 10px 5px;
+	color: #FFF;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	background: #084B8A;
 }
