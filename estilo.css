@@ -5,7 +5,13 @@ margin: 0;
 font-family: Arial;
 }
 .introduccion{
-
+background: #A9F5F2;
+padding: 0;
+margin: 0;
+font-family: Arial;
+}
+.introduccion h1{
+	color: 0421FF;
 }
 .tipos{
 
@@ -31,3 +37,4 @@ font-family: Arial;
 .menu ul li a:hover{
 	background: #084B8A;
 }
+
