@@ -20,10 +20,31 @@ font-family: Arial;
 
 }
 
+<<<<<<< HEAD
 .links img{
 	width: 80px;
 	height: 80px;
 }
+=======
+
+.web3.html{
+	background: #FE642E;
+
+}
+.titulo-centrado{
+	text-align: center;
+	color: #04B486;
+	font-weight: bold;
+}
+.parrafo{
+	color: #0404B4;
+	font-size: 22px;
+}
+.img{
+	display:block;
+margin:auto;
+	}
+>>>>>>> 54bacb2bfb17ebb734026dfdcfdd711de1c5102d
 
 .titulo{
 font-synthesis: 18px;
@@ -62,3 +83,4 @@ text-decoration: underline;
 .menu ul li a:hover{
 	background: #084B8A;
 }
+
