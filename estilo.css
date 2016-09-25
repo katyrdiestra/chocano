@@ -19,10 +19,13 @@ font-family: Arial;
 	letter-spacing: 20px;
 
 }
+
+
 .links img{
 	width: 80px;
 	height: 80px;
 }
+
 
 .web3.html{
 	background: #FE642E;
@@ -41,6 +44,8 @@ font-family: Arial;
 	display:block;
 margin:auto;
 	}
+>>>>>>> 54bacb2bfb17ebb734026dfdcfdd711de1c5102d
+
 .titulo{
 font-synthesis: 18px;
 text-decoration: underline;
@@ -78,10 +83,6 @@ text-decoration: underline;
 .menu ul li a:hover{
 	background: #084B8A;
 }
-
-.page{
-	padding: 20px;
-	background: #FFF;
-	width: 750px;
-	margin: auto;
+.introduccion p{
+	text-align: justify;
 }
