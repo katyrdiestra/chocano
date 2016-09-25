@@ -1,17 +1,81 @@
 body{
 background: #A9F5F2;
+padding: 0;
+margin: 0;
+font-family: Arial;
 }
 .introduccion{
 
 }
 .tipos{
-
+	text-align: center;
+	color: #C817E3;
+	font-weight: bold;
+	font-family: all;
+	text-decoration: underline;
 }
 .links{
 	
-}
 .web2 {
 font-family: "Times New Roman";
 text-align: justify;
 font-size: 20px;
 }
+
+.web3.html{
+	background: #FE642E;
+
+}
+.titulo-centrado{
+	text-align: center;
+	color: #04B486;
+	font-weight: bold;
+}
+.parrafo{
+	color: #0404B4;
+	font-size: 22px;
+}
+.img{
+	display:block;
+margin:auto;
+	}
+
+.titulo{
+font-synthesis: 18px;
+text-decoration: underline;
+text-align: center;
+color: #DF013A;
+}
+.parrafo-plomo{
+	color: #0404B4;
+	font: 100% sans-serif;
+	margin-left: 2em;
+	margin-right: 2em;
+    background-color: #f9dbdb;
+    border: 1px solid #e9b3b3;
+}
+.subrayado-tipos{
+color: #088A08;
+font-size: 18px;
+text-decoration: underline;
+}
+.menu ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background: #0080FF;
+}
+.menu ul li{
+	display: inline-block;
+}
+.menu ul li a{
+	display: block;
+	padding: 10px 5px;
+	color: #FFF;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	background: #084B8A;
+}
+
+>>>>>>> cac9434a1cb732976b01f4dfb314168df85e3637
