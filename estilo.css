@@ -5,7 +5,13 @@ margin: 0;
 font-family: Arial;
 }
 .introduccion{
-
+background: #A9F5F2;
+padding: 0;
+margin: 0;
+font-family: Arial;
+}
+.introduccion h1{
+	color: 0421FF;
 }
 .tipos{
 	text-align: center;
@@ -14,18 +20,23 @@ font-family: Arial;
 	font-family: all;
 	text-decoration: underline;
 }
+
+.web2{
+font-family: "Times New Roman";
+text-align: left;
+font-size: 20px;
+color: #FF0000;
+}
 .links{
 	text-align: center;
 	letter-spacing: 20px;
 
 }
-
-<<<<<<< HEAD
 .links img{
 	width: 80px;
 	height: 80px;
+
 }
-=======
 
 .web3.html{
 	background: #FE642E;
@@ -44,8 +55,6 @@ font-family: Arial;
 	display:block;
 margin:auto;
 	}
->>>>>>> 54bacb2bfb17ebb734026dfdcfdd711de1c5102d
-
 .titulo{
 font-synthesis: 18px;
 text-decoration: underline;
@@ -84,8 +93,19 @@ text-decoration: underline;
 	background: #084B8A;
 }
 
+<<<<<<< HEAD
 .titulon {
 	text-align: center;
 	color: #891414
 	font-size:"Arial black";
 }
+=======
+
+.page{
+	padding: 20px;
+	background: #FFF;
+	width: 750px;
+	margin: auto;
+}
+
+>>>>>>> a83a3adc577f32bb001256d0d6746b14fd8aa1d0
