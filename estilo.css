@@ -15,8 +15,16 @@ font-family: Arial;
 	text-decoration: underline;
 }
 .links{
-	
+	text-align: center;
+	letter-spacing: 20px;
+
 }
+
+.links img{
+	width: 80px;
+	height: 80px;
+}
+
 .titulo{
 font-synthesis: 18px;
 text-decoration: underline;
